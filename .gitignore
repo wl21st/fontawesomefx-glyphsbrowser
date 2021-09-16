@@ -1,7 +1,6 @@
 .DS_Store
 build/
 private/
-gradle/
 .nb-gradle/
 .gradle/
 .nb-gradle*
@@ -10,3 +9,4 @@ gradle/
 .classpath
 .project
 .settings/org.eclipse.buildship.core.prefs
+out/
